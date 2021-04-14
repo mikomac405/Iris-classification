@@ -1,7 +1,7 @@
 # Iris-classification
-Classification of irises species using various machine learning techniques:
--KNN
--Soft set
--Bayes naive classifier
--Fuzzy set (in progress)
--Neural Network (in progress)
+## Classification of irises species using various machine learning techniques: <br>
+### -KNN <br>
+### -Soft set <br>
+### -Bayes naive classifier <br>
+### -Fuzzy set (in progress) <br>
+### -Neural Network (in progress)
